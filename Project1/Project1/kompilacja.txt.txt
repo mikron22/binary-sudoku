@@ -1,0 +1,2 @@
+Ze wzglêdu na u¿ycie funkcji niebezpiecznych (np. sprintf, fscanf) do definicji procesora nale¿y dopisaæ:
+_CRT_SECURE_NO_WARNINGS

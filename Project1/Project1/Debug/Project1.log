@@ -1,0 +1,159 @@
+﻿  conio2.cpp
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(7356): warning C5039: „TpSetCallbackCleanupGroup”: Wskaźnik lub odwołanie do funkcji potencjalnie zgłaszającej wyjątek przekazano do funkcji extern języka C w ramach parametru -EHc. Jeśli ta funkcja zgłosi wyjątek, może pojawić się niezdefiniowane zachowane.
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7542): warning C4668: "_WIN32_WINNT_WIN10_TH2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7548): warning C4668: "_WIN32_WINNT_WIN10_RS1" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7553): warning C4668: "_WIN32_WINNT_WIN10_TH2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7557): warning C4668: "_WIN32_WINNT_WIN10_TH2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7564): warning C4668: "_WIN32_WINNT_WIN10_RS2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7574): warning C4668: "_WIN32_WINNT_WIN10_RS2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7578): warning C4668: "_WIN32_WINNT_WIN10_TH2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7583): warning C4668: "_WIN32_WINNT_WIN10_RS3" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7777): warning C4668: "_WIN32_WINNT_WIN10_RS2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(12232): warning C4668: "_WIN32_WINNT_WIN10_RS2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(12249): warning C4668: "_WIN32_WINNT_WIN10_RS3" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(12266): warning C4668: "_WIN32_WINNT_WIN10_RS3" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(12285): warning C4668: "_WIN32_WINNT_WIN10_RS2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(12404): warning C4668: "_WIN32_WINNT_WIN10_RS3" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(146): warning C4189: "res": lokalna zmienna jest zainicjowana, ale nie ma odwołania
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(212): warning C4244: "=": konwersja z "int" do "SHORT", możliwa utrata danych
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(213): warning C4244: "=": konwersja z "int" do "SHORT", możliwa utrata danych
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(291): warning C4242: "=": konwersja z "int" do "WORD", możliwa utrata danych
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(291): warning C4365: "=": konwersja z "int" do "WORD", niezgodność ze znakiem/bez znaku
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(295): warning C4242: "=": konwersja z "int" do "SHORT", możliwa utrata danych
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(297): warning C4244: "=": konwersja z "int" do "SHORT", możliwa utrata danych
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(391): warning C4365: "return": konwersja z "DWORD" do "int", niezgodność ze znakiem/bez znaku
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(414): warning C4244: "=": konwersja z "int" do "SHORT", możliwa utrata danych
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(415): warning C4244: "=": konwersja z "int" do "SHORT", możliwa utrata danych
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(416): warning C4244: "=": konwersja z "int" do "SHORT", możliwa utrata danych
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(420): warning C4242: "=": konwersja z "int" do "char", możliwa utrata danych
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(429): warning C4365: "argument": konwersja z "int" do "size_t", niezgodność ze znakiem/bez znaku
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(448): warning C4244: "=": konwersja z "int" do "SHORT", możliwa utrata danych
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(449): warning C4244: "=": konwersja z "int" do "SHORT", możliwa utrata danych
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(450): warning C4244: "=": konwersja z "int" do "SHORT", możliwa utrata danych
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(463): warning C4242: "=": konwersja z "int" do "unsigned char", możliwa utrata danych
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(463): warning C4365: "=": konwersja z "int" do "unsigned char", niezgodność ze znakiem/bez znaku
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(464): warning C4242: "=": konwersja z "int" do "unsigned char", możliwa utrata danych
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(464): warning C4365: "=": konwersja z "int" do "unsigned char", niezgodność ze znakiem/bez znaku
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(465): warning C4242: "=": konwersja z "int" do "unsigned short", możliwa utrata danych
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(465): warning C4365: "=": konwersja z "int" do "unsigned short", niezgodność ze znakiem/bez znaku
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(467): warning C4242: "=": konwersja z "int" do "unsigned char", możliwa utrata danych
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(467): warning C4365: "=": konwersja z "int" do "unsigned char", niezgodność ze znakiem/bez znaku
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(468): warning C4242: "=": konwersja z "int" do "unsigned char", możliwa utrata danych
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(468): warning C4365: "=": konwersja z "int" do "unsigned char", niezgodność ze znakiem/bez znaku
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(473): warning C4189: "fs": lokalna zmienna jest zainicjowana, ale nie ma odwołania
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(495): warning C5039: „atexit”: Wskaźnik lub odwołanie do funkcji potencjalnie zgłaszającej wyjątek przekazano do funkcji extern języka C w ramach parametru -EHc. Jeśli ta funkcja zgłosi wyjątek, może pojawić się niezdefiniowane zachowane.
+  main.cpp
+c:\users\mikron22\source\repos\project1\project1\stale.h(24): warning C4820: "POLE": wypełnienie "2" bajtów zostało dodane po składowa danych "POLE::wartosc"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(7356): warning C5039: „TpSetCallbackCleanupGroup”: Wskaźnik lub odwołanie do funkcji potencjalnie zgłaszającej wyjątek przekazano do funkcji extern języka C w ramach parametru -EHc. Jeśli ta funkcja zgłosi wyjątek, może pojawić się niezdefiniowane zachowane.
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7542): warning C4668: "_WIN32_WINNT_WIN10_TH2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7548): warning C4668: "_WIN32_WINNT_WIN10_RS1" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7553): warning C4668: "_WIN32_WINNT_WIN10_TH2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7557): warning C4668: "_WIN32_WINNT_WIN10_TH2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7564): warning C4668: "_WIN32_WINNT_WIN10_RS2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7574): warning C4668: "_WIN32_WINNT_WIN10_RS2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7578): warning C4668: "_WIN32_WINNT_WIN10_TH2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7583): warning C4668: "_WIN32_WINNT_WIN10_RS3" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7777): warning C4668: "_WIN32_WINNT_WIN10_RS2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(12232): warning C4668: "_WIN32_WINNT_WIN10_RS2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(12249): warning C4668: "_WIN32_WINNT_WIN10_RS3" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(12266): warning C4668: "_WIN32_WINNT_WIN10_RS3" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(12285): warning C4668: "_WIN32_WINNT_WIN10_RS2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(12404): warning C4668: "_WIN32_WINNT_WIN10_RS3" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(35): warning C4820: "_timespec64": wypełnienie "4" bajtów zostało dodane po składowa danych "_timespec64::tv_nsec"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(42): warning C4820: "timespec": wypełnienie "4" bajtów zostało dodane po składowa danych "timespec::tv_nsec"
+c:\users\mikron22\source\repos\project1\project1\main.cpp(75): warning C4242: "=": konwersja z "int" do "char", możliwa utrata danych
+c:\users\mikron22\source\repos\project1\project1\main.cpp(81): warning C4242: "=": konwersja z "int" do "char", możliwa utrata danych
+  plansza.cpp
+c:\users\mikron22\source\repos\project1\project1\stale.h(24): warning C4820: "POLE": wypełnienie "2" bajtów zostało dodane po składowa danych "POLE::wartosc"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(7356): warning C5039: „TpSetCallbackCleanupGroup”: Wskaźnik lub odwołanie do funkcji potencjalnie zgłaszającej wyjątek przekazano do funkcji extern języka C w ramach parametru -EHc. Jeśli ta funkcja zgłosi wyjątek, może pojawić się niezdefiniowane zachowane.
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7542): warning C4668: "_WIN32_WINNT_WIN10_TH2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7548): warning C4668: "_WIN32_WINNT_WIN10_RS1" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7553): warning C4668: "_WIN32_WINNT_WIN10_TH2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7557): warning C4668: "_WIN32_WINNT_WIN10_TH2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7564): warning C4668: "_WIN32_WINNT_WIN10_RS2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7574): warning C4668: "_WIN32_WINNT_WIN10_RS2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7578): warning C4668: "_WIN32_WINNT_WIN10_TH2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7583): warning C4668: "_WIN32_WINNT_WIN10_RS3" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7777): warning C4668: "_WIN32_WINNT_WIN10_RS2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(12232): warning C4668: "_WIN32_WINNT_WIN10_RS2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(12249): warning C4668: "_WIN32_WINNT_WIN10_RS3" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(12266): warning C4668: "_WIN32_WINNT_WIN10_RS3" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(12285): warning C4668: "_WIN32_WINNT_WIN10_RS2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(12404): warning C4668: "_WIN32_WINNT_WIN10_RS3" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(35): warning C4820: "_timespec64": wypełnienie "4" bajtów zostało dodane po składowa danych "_timespec64::tv_nsec"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(42): warning C4820: "timespec": wypełnienie "4" bajtów zostało dodane po składowa danych "timespec::tv_nsec"
+c:\users\mikron22\source\repos\project1\project1\plansza.cpp(21): warning C4242: "=": konwersja z "int" do "char", możliwa utrata danych
+c:\users\mikron22\source\repos\project1\project1\plansza.cpp(130): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\mikron22\source\repos\project1\project1\plansza.cpp(130): warning C4365: "argument": konwersja z "time_t" do "unsigned int", niezgodność ze znakiem/bez znaku
+c:\users\mikron22\source\repos\project1\project1\plansza.cpp(220): warning C4456: deklaracja „y” powoduje ukrycie poprzedniej deklaracji lokalnej
+  c:\users\mikron22\source\repos\project1\project1\plansza.cpp(170): note: zobacz deklarację „y”
+c:\users\mikron22\source\repos\project1\project1\plansza.cpp(224): warning C4456: deklaracja „x” powoduje ukrycie poprzedniej deklaracji lokalnej
+  c:\users\mikron22\source\repos\project1\project1\plansza.cpp(169): note: zobacz deklarację „x”
+c:\users\mikron22\source\repos\project1\project1\plansza.cpp(246): warning C4456: deklaracja „y” powoduje ukrycie poprzedniej deklaracji lokalnej
+  c:\users\mikron22\source\repos\project1\project1\plansza.cpp(170): note: zobacz deklarację „y”
+c:\users\mikron22\source\repos\project1\project1\plansza.cpp(248): warning C4456: deklaracja „x” powoduje ukrycie poprzedniej deklaracji lokalnej
+  c:\users\mikron22\source\repos\project1\project1\plansza.cpp(169): note: zobacz deklarację „x”
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): warning C4710: "int fscanf(FILE *const ,const char *const ,...)": funkcja nie została wbudowana
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: zobacz deklarację „fscanf”
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1851): warning C4710: "int sprintf_s<32>(char (&)[32],const char *,...) throw()": funkcja nie została wbudowana
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1851): note: zobacz deklarację „sprintf_s”
+  sprawdz.cpp
+c:\users\mikron22\source\repos\project1\project1\stale.h(24): warning C4820: "POLE": wypełnienie "2" bajtów zostało dodane po składowa danych "POLE::wartosc"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winbase.h(7356): warning C5039: „TpSetCallbackCleanupGroup”: Wskaźnik lub odwołanie do funkcji potencjalnie zgłaszającej wyjątek przekazano do funkcji extern języka C w ramach parametru -EHc. Jeśli ta funkcja zgłosi wyjątek, może pojawić się niezdefiniowane zachowane.
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7542): warning C4668: "_WIN32_WINNT_WIN10_TH2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7548): warning C4668: "_WIN32_WINNT_WIN10_RS1" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7553): warning C4668: "_WIN32_WINNT_WIN10_TH2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7557): warning C4668: "_WIN32_WINNT_WIN10_TH2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7564): warning C4668: "_WIN32_WINNT_WIN10_RS2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7574): warning C4668: "_WIN32_WINNT_WIN10_RS2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7578): warning C4668: "_WIN32_WINNT_WIN10_TH2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7583): warning C4668: "_WIN32_WINNT_WIN10_RS3" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(7777): warning C4668: "_WIN32_WINNT_WIN10_RS2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(12232): warning C4668: "_WIN32_WINNT_WIN10_RS2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(12249): warning C4668: "_WIN32_WINNT_WIN10_RS3" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(12266): warning C4668: "_WIN32_WINNT_WIN10_RS3" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(12285): warning C4668: "_WIN32_WINNT_WIN10_RS2" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winioctl.h(12404): warning C4668: "_WIN32_WINNT_WIN10_RS3" nie jest zdefiniowany jako preprocesor makra, zastępowanie za pomocą "0" dla "#if/#elif"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(35): warning C4820: "_timespec64": wypełnienie "4" bajtów zostało dodane po składowa danych "_timespec64::tv_nsec"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(42): warning C4820: "timespec": wypełnienie "4" bajtów zostało dodane po składowa danych "timespec::tv_nsec"
+c:\users\mikron22\source\repos\project1\project1\sprawdz.cpp(86): warning C4457: deklaracja „komunikat” powoduje ukrycie parametru funkcji
+  c:\users\mikron22\source\repos\project1\project1\sprawdz.cpp(35): note: zobacz deklarację „komunikat”
+c:\users\mikron22\source\repos\project1\project1\sprawdz.cpp(125): warning C4457: deklaracja „komunikat” powoduje ukrycie parametru funkcji
+  c:\users\mikron22\source\repos\project1\project1\sprawdz.cpp(35): note: zobacz deklarację „komunikat”
+c:\users\mikron22\source\repos\project1\project1\sprawdz.cpp(176): warning C4457: deklaracja „komunikat” powoduje ukrycie parametru funkcji
+  c:\users\mikron22\source\repos\project1\project1\sprawdz.cpp(137): note: zobacz deklarację „komunikat”
+c:\users\mikron22\source\repos\project1\project1\sprawdz.cpp(223): warning C4457: deklaracja „komunikat” powoduje ukrycie parametru funkcji
+  c:\users\mikron22\source\repos\project1\project1\sprawdz.cpp(137): note: zobacz deklarację „komunikat”
+c:\users\mikron22\source\repos\project1\project1\sprawdz.cpp(268): warning C4457: deklaracja „komunikat” powoduje ukrycie parametru funkcji
+  c:\users\mikron22\source\repos\project1\project1\sprawdz.cpp(240): note: zobacz deklarację „komunikat”
+c:\users\mikron22\source\repos\project1\project1\sprawdz.cpp(281): warning C4456: deklaracja „y” powoduje ukrycie poprzedniej deklaracji lokalnej
+  c:\users\mikron22\source\repos\project1\project1\sprawdz.cpp(245): note: zobacz deklarację „y”
+c:\users\mikron22\source\repos\project1\project1\sprawdz.cpp(299): warning C4457: deklaracja „komunikat” powoduje ukrycie parametru funkcji
+  c:\users\mikron22\source\repos\project1\project1\sprawdz.cpp(240): note: zobacz deklarację „komunikat”
+c:\users\mikron22\source\repos\project1\project1\sprawdz.cpp(419): warning C4242: "inicjowanie": konwersja z "int" do "char", możliwa utrata danych
+c:\users\mikron22\source\repos\project1\project1\sprawdz.cpp(442): warning C4242: "inicjowanie": konwersja z "int" do "char", możliwa utrata danych
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): warning C4710: "int sprintf(char *const ,const char *const ,...)": funkcja nie została wbudowana
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: zobacz deklarację „sprintf”
+  Generowanie kodu...
+c:\users\mikron22\source\repos\project1\project1\sprawdz.cpp(201): warning C5045: Kompilator wstawi kroki zaradcze dla luki Spectre w przypadku obciążenia pamięci, jeśli określono przełącznik /Qspectre
+  c:\users\mikron22\source\repos\project1\project1\sprawdz.cpp(195) : uwaga: sprawdzono zakres indeksu „y” przez porównanie w tym wierszu
+  c:\users\mikron22\source\repos\project1\project1\sprawdz.cpp(201) : uwaga: obciążenie pamięci kanałów informacyjnych w tym wierszu
+c:\users\mikron22\source\repos\project1\project1\sprawdz.cpp(283): warning C5045: Kompilator wstawi kroki zaradcze dla luki Spectre w przypadku obciążenia pamięci, jeśli określono przełącznik /Qspectre
+  c:\users\mikron22\source\repos\project1\project1\sprawdz.cpp(281) : uwaga: sprawdzono zakres indeksu „y” przez porównanie w tym wierszu
+  c:\users\mikron22\source\repos\project1\project1\sprawdz.cpp(283) : uwaga: obciążenie pamięci kanałów informacyjnych w tym wierszu
+c:\users\mikron22\source\repos\project1\project1\sprawdz.cpp(362): warning C5045: Kompilator wstawi kroki zaradcze dla luki Spectre w przypadku obciążenia pamięci, jeśli określono przełącznik /Qspectre
+  c:\users\mikron22\source\repos\project1\project1\sprawdz.cpp(360) : uwaga: sprawdzono zakres indeksu „i” przez porównanie w tym wierszu
+  c:\users\mikron22\source\repos\project1\project1\sprawdz.cpp(362) : uwaga: wywołanie kanałów informacyjnych w tym wierszu
+c:\users\mikron22\source\repos\project1\project1\plansza.cpp(255): warning C5045: Kompilator wstawi kroki zaradcze dla luki Spectre w przypadku obciążenia pamięci, jeśli określono przełącznik /Qspectre
+  c:\users\mikron22\source\repos\project1\project1\plansza.cpp(248) : uwaga: sprawdzono zakres indeksu „x” przez porównanie w tym wierszu
+  c:\users\mikron22\source\repos\project1\project1\plansza.cpp(255) : uwaga: wywołanie kanałów informacyjnych w tym wierszu
+c:\users\mikron22\source\repos\project1\project1\main.cpp(195): warning C5045: Kompilator wstawi kroki zaradcze dla luki Spectre w przypadku obciążenia pamięci, jeśli określono przełącznik /Qspectre
+  c:\users\mikron22\source\repos\project1\project1\main.cpp(193) : uwaga: sprawdzono zakres indeksu „i” przez porównanie w tym wierszu
+  c:\users\mikron22\source\repos\project1\project1\main.cpp(195) : uwaga: wywołanie kanałów informacyjnych w tym wierszu
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(420): warning C5045: Kompilator wstawi kroki zaradcze dla luki Spectre w przypadku obciążenia pamięci, jeśli określono przełącznik /Qspectre
+  c:\users\mikron22\source\repos\project1\project1\conio2.cpp(418) : uwaga: sprawdzono zakres indeksu „i” przez porównanie w tym wierszu
+  c:\users\mikron22\source\repos\project1\project1\conio2.cpp(420) : uwaga: wywołanie kanałów informacyjnych w tym wierszu
+c:\users\mikron22\source\repos\project1\project1\conio2.cpp(445): warning C5045: Kompilator wstawi kroki zaradcze dla luki Spectre w przypadku obciążenia pamięci, jeśli określono przełącznik /Qspectre
+  c:\users\mikron22\source\repos\project1\project1\conio2.cpp(443) : uwaga: sprawdzono zakres indeksu „i” przez porównanie w tym wierszu
+  c:\users\mikron22\source\repos\project1\project1\conio2.cpp(445) : uwaga: wywołanie kanałów informacyjnych w tym wierszu
+  Project1.vcxproj -> C:\Users\Mikron22\source\repos\Project1\Debug\Project1.exe
